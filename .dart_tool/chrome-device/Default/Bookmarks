@@ -1,0 +1,230 @@
+{
+   "checksum": "98e597f0bfc0dbf97225f4613c919224",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13340090845385110",
+            "date_last_used": "0",
+            "guid": "511f2cde-7d93-4632-8a11-64bc07234606",
+            "id": "10",
+            "name": "eCampus | UNIVERSITAS PELITA BANGSA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ecampus.pelitabangsa.ac.id/pb/login"
+         }, {
+            "date_added": "13308228909834142",
+            "date_last_used": "0",
+            "guid": "edf4b27c-9601-4ad1-96cb-99c9a7a28fe0",
+            "id": "11",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13308228926184515",
+            "date_last_used": "0",
+            "guid": "aa08bbe1-5986-46e9-bb07-3478e971df23",
+            "id": "12",
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13308228976945838",
+            "date_last_used": "0",
+            "guid": "9d88c1d1-6c7d-431d-92e7-d16720110c9d",
+            "id": "13",
+            "name": "Extensions for Visual Studio family of products | Visual Studio Marketplace",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://marketplace.visualstudio.com/VSCode"
+         }, {
+            "date_added": "13308234779669172",
+            "date_last_used": "0",
+            "guid": "e8d66c45-c24e-4ad0-8e2f-3b5be9b6dd70",
+            "id": "14",
+            "name": "Shopee Indonesia | Situs Belanja Online Terlengkap & Terpercaya",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.co.id/?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKIbYGDGAHN6jhfhuVKdzSGe5r8m8rv-3FroDC5B4CccP2VKnw7vHf4aAjy5EALw_wcB"
+         }, {
+            "date_added": "13308234802853251",
+            "date_last_used": "0",
+            "guid": "60ddf2ae-0ca9-4e38-beb5-d8ce13b9b491",
+            "id": "15",
+            "name": "Promo Bebas Ongkir ke Seluruh Indonesia Hanya di Tokopedia!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tokopedia.com/discovery/bebas-ongkir?gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKInjY6nsQp3pFAgr3EQTm1Dba-mKq168ssyXeOSOYqSZ7yf7SXDqooaApmKEALw_wcB"
+         }, {
+            "date_added": "13308234821967842",
+            "date_last_used": "0",
+            "guid": "57922db2-5551-4dac-83b9-fb2cb12a5946",
+            "id": "16",
+            "name": "Jual mobil langsung di OLX Autos - Beli jual mobil bekas, cek harga mobil bekas",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.olx.co.id/sell-car?utm_source=google&utm_medium=cpc&utm_campaign_id=15657615094&utm_adgroup_id=126643901650&utm_campaign=ID|JAB|GS|Pros|Web|ROAS|Leads-Conversions|ALL|Broad|Brand-Classified|ABTest|241221&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKJA6sfaxcIIyaiJkk3qpkg8oCYtGQdn09KgaWmUFBD7VYoEm11Sc0YaAjbmEALw_wcB"
+         }, {
+            "date_added": "13308316981596393",
+            "date_last_used": "0",
+            "guid": "24be9294-ca50-43ef-86ec-91ecfd564e6a",
+            "id": "17",
+            "name": "Sistem Informasi Akademik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ecampus.pelitabangsa.ac.id/pb/pages/main/sub_main.zul"
+         }, {
+            "date_added": "13308719286184043",
+            "date_last_used": "0",
+            "guid": "9bcc4dd7-73b6-4a5f-bea4-5ba2fc856530",
+            "id": "18",
+            "name": "Alat Desain Gratis: Presentasi, Video, Media Sosial | Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/id_id/"
+         }, {
+            "date_added": "13343317344286976",
+            "date_last_used": "0",
+            "guid": "4e4c2cf6-872a-400f-aea7-a843c2157a45",
+            "id": "19",
+            "name": "Skills for All by Cisco: Free Online Tech Courses For All",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://skillsforall.com/"
+         }, {
+            "date_added": "13311186964153028",
+            "date_last_used": "0",
+            "guid": "bc0cc5ac-5465-48fb-9a5a-6b324a9fd05a",
+            "id": "20",
+            "name": "Sistem Informasi Pustaka",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pustaka.pelitabangsa.ac.id/pb_pustaka/main/index"
+         }, {
+            "date_added": "13312124317900808",
+            "date_last_used": "0",
+            "guid": "ea38c212-9950-4138-8c72-ecab0511aa29",
+            "id": "21",
+            "name": "Ideas | LOGO.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.logo.com/ideas"
+         }, {
+            "date_added": "13309882211727115",
+            "date_last_used": "0",
+            "guid": "e214be69-f39f-4ef4-9a16-ef03ff606c03",
+            "id": "22",
+            "name": "Parafrase - Alat Parafrase Online Indonesia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.paraphraser.io/id/parafrase-online"
+         }, {
+            "date_added": "13344668730810082",
+            "date_last_used": "0",
+            "guid": "279f984b-44b4-4982-a266-7d06846f0e31",
+            "id": "23",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13344668730810538",
+            "date_last_used": "0",
+            "guid": "770d43f4-641f-4c23-860c-5fd02081b88f",
+            "id": "24",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13344668730810787",
+            "date_last_used": "0",
+            "guid": "18d9384d-2875-4d27-907b-75b95fff1647",
+            "id": "25",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13359482303237169",
+         "date_last_used": "0",
+         "date_modified": "13344668730810787",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13359482303237176",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13311923779032560",
+            "date_last_used": "0",
+            "guid": "ad615ebf-dcdc-488e-8bd8-79b929e525d8",
+            "id": "7",
+            "name": "Skandal SMA 8 Bekasi 2017 - Pakecrot onlineNonton Bokep - FACECROT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://facecrot.link/video/18763/skandal-sma-8-bekasi-2017-pakecrot-online"
+         }, {
+            "date_added": "13322596880029642",
+            "date_last_used": "0",
+            "guid": "a9019203-bd67-429c-a140-a492af199aed",
+            "id": "8",
+            "name": "Thank You Page Insight Motivasi - 9 Maret",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://live.dropshipaja.com/thnkyou_page-inisghtmotivasi-9maret/"
+         }, {
+            "date_added": "13336230405950586",
+            "date_last_used": "0",
+            "guid": "c7f93efa-52a3-4434-9d37-638c567905c7",
+            "id": "9",
+            "name": "Antares (2021) - Dutamovie21",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dutamovie21.live/tv/antares-2021/"
+         } ],
+         "date_added": "13359482303237177",
+         "date_last_used": "0",
+         "date_modified": "13336230405950586",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCLHsfE6PAQAAKg4QABgBIAAoBjAAOABAABIAKhhwd0pRSWtoNnlhMTkwOVI2aWNzTm13PT1IA6AGDBKpAQgZEqQBChxuQ2pvbUwvdldmKzRJbkZmdnBTTnhFOFIvUkE9EiQxOGQ5Mzg0ZC0yODc1LTRkMjctOTA3Yi03NWI5NWZmZjE2NDcYACAAKAAw556R6dIxOPmGs4zFMUD5hrOMxTFKHGtjeG0wUHMxZXErYzlrUThtVCtRVUdnV05PTT1aICIe//1NL250NEdPTlpJUlE4cUlKcVMwZ3pENTVHbjQ9ZaT76JgSqQEIGBKkAQocWXpvZXFaUm0wWGVrTUpST2RtN3FySUpLMkMwPRIkNzcwZDQzZjQtNjQxZi00YzIzLTg2MGMtNWZkMDIwODFiODhmGAAgACgAMOaekenSMTjBhrOMxTFAwYazjMUxShxrbWxvRVZXR3NsOS9wejBxdFIvTFhaVWVHWEE9WiAiHv/7c1U3N1Q1WUxoVzdiNnloT3QybGxSY3VyYTZJPWU4+TkzEqkBCBYSpAEKHG9QYmkrNVFKMG4rTktvNyt6L08ybjFMQmUyMD0SJGUyMTRiZTY5LWYzOWYtNGVmNC05YTE2LWVmMDNmZjYwNmMwMxgAIAAoADCVmfzG0DE4ofb0yL8xQKH29Mi/MUocRGRlNXBuZFhFN1RYa3BSMWJ2M0xIbERaaU1vPVogIh7/7jBSNjdsQk52c1dFcnFMZ0Mwd05CQ01Sd1BqST1li5pnaxKpAQgUEqQBChwxM1RiVm5wMWgra3Bod1BCR3IydjQ2QnBrWWc9EiRiYzBjYzVhYy01NDY1LTQ4ZmItOWE1YS02YjMyNGE5ZmQwNWEYACAAKAAwkJn8xtAxOP/z9Mi/MUD/8/TIvzFKHFFEYmRycmkxOEhKVkhNbzZlY2NDL3A5cTFORT1aICIe/7lFT0Z4NHd6K2EvNnYwbGp1M3VPaHlSSWh6RmM9ZZku1qsSqAEIEhKjAQocd1dpT3VNNEFXRDFDOGZ6QVpMZ0VFVXlGYnpjPRIkOWJjYzRkZDctNzNiNi00YTVmLWJlYTQtNWJhMmZjODU2NTMwGAAgACgAMJSZ/MbQMTjy9fTIvzFA8vX0yL8xShxVcm53VGMzdGlHMWszTEIzL01zeVlacCtQbzg9Wh8iHf5ZdkZ1NngxWjExeUkyS2VleGJ5N3pBTjA3Q0U9ZeXGNDASqAEIDxKjAQocelVpbncwTytqaFZBbldjdjBXRThmU21JM3FFPRIkNjBkZGYyYWUtMGNhOS00ZTM4LWJlYjUtZDhjZTEzYjliNDkxGAAgACgAMJaZ/MbQMTi89fTIvzFAvPX0yL8xShx6SGRjWWFVQURid3JycTJGUUtJOWN2ckRBSFk9Wh8iHfRVdEVLa0xWbEY3S2ZoSmR2bDRROHJDN0dSU2M9ZXWADr8SqAEIDhKjAQocKy9qZ2E5bWgvVitIa3lwQUFuMnMrOFljU1BBPRIkZThkNjZjNDUtYzI0ZS00YWQwLThlMmYtM2I1YmU5YjZkZDcwGAAgACgAMJiZ/MbQMTiE9fTIvzFAhPX0yL8xShx0Y1VlYVhHdVNXZXVVRWhSb0xOaXg4YmNmRmc9Wh8iHel2UG51aXBuUTBUYzZwYjQzMHEwZ1Q5UjBBYzQ9ZfOXa6gSqAEIDBKjAQoca3JGemtGOGYwRHl4NklDdHRlRjVkdE9TRjZNPRIkYWEwOGJiZTEtNTk4Ni00NmU5LWJiMDctMzQ3OGU5NzFkZjIzGAAgACgAMJKZ/MbQMTi49PTIvzFAuPT0yL8xShxndFo1b1QwNTBOMGZOY0UzVnhiUjFSeFExT2c9Wh8iHaREbjVkV2tNMDRoR3hERURia0U3YnptWk1oVTg9ZbFrgJISpwEIBxKiAQocT0RWcEZ0RENIVzh0SGF4Vy9HZWJWYkp5Y2NrPRIkYWQ2MTVlYmYtZGNkYy00ODhlLThiZDgtNzliOTI5ZTUyNWQ4GAAgACgAMKvw9Mi/MTjo8/TIvzFA6PP0yL8xShxkcXpYNy9GTXNlSVRlQ0liRFRTYnJWd2JJMlE9Wh4iHFJ3RXp5QTlLbFZSYWRaaFNWaUQ1dGRETGJjTT1lAAAAABKnAQgLEqIBChxlZ3hPWGpjK0lrVmRVeEk2TzVhZDFmWVRxT0k9EiRlZGY0YjI3Yy05NjAxLTRhZDEtOTZjYi05OWM5YTdhMjhmZTAYACAAKAAwm9mT4NQxONj19Mi/MUDY9fTIvzFKHEsvRkdBZ0VTNE5vdHRpSUcyYXd0cGdZWU5Pcz1aHiIcSEdVY1dseDVyNDFHMHpwdGM4TUpQOFc1S21VPWU4+TkzEqcBCAoSogEKHHVPZU9qby9OWVE2cGpKV0tRL0hvZXVOMXoxRT0SJDUxMWYyY2RlLTdkOTMtNDYzMi04YTExLTY0YmMwNzIzNDYwNhgAIAAoADCNmfzG0DE4zvP0yL8xQM7z9Mi/MUocSGgyMXhMV0pLTG1IMDVlTFQwYmU2bjVPc2IwPVoeIhxCSFFMdTZQRjYwQ08vSHJFZFhqazU4RnV3L2s9ZZku1qsSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYmJjZWQ2NTktNDJlOS01YTA5LWJlZTYtZGJiMzQ5MjJmYzY0GAAgACgAMKGVpbOzMTiFnaWzszFAhZ2ls7MxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQxNjgzOWQyNC04NDUyLTUzM2ItODZkMi01MDI1OTIwZGEwZTgYACAAKAAwopWls7MxOJ6dpbOzMUCenaWzszFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqgBCBESowEKHDB0dS8zZkhKZGh5STBlWkkrT3ovNnJPYVBlND0SJDI0YmU5Mjk0LWNhNTAtNDNlZi04NmVjLTkxZWNmZDU2NGU2YRgAIAAoADCZmfzG0DE4nfT0yL8xQJ309Mi/MUocN1R3bFBSZlRnSzFBbW9ibmxydDYvTUFEZExBPVofIh39QURJUVkvaUhpdDR5MU1WUWZJTlU1emszbkVjPWWZLtarEqgBCBASowEKHHNMd2twK2JFRWRXUGVjcnhwVktEM1NkNWVabz0SJDU3OTIyZGIyLTU1NTEtNGRhYy04M2I5LWZiMmNiMTJhNTk0NhgAIAAoADCXmfzG0DE4nfX0yL8xQJ319Mi/MUoceWlLdDJxRDJtbXlNK01LdGRrVTNQY1FpNmFJPVofIh36a0VYdnh3RkVEVUJUZEZtbnFMNlZqUkVoVjFNPWWChS3REqgBCAkSowEKHFh4OSs4SjdzSWJkL3hWS3dNV1lCdE5ialZwdz0SJGM3ZjkzZWZhLTUyYTMtNDQzNC05ZDM3LTYzOGM1Njc5MDVjNxgAIAAoADDlnpHp0jE4gIazjMUxQICGs4zFMUocVVdnVDB5eDYxU3FwRndyMDZObGVyM0swN0dVPVofIh3UY1pHRjNQSlJQZ1oxQ04rZmpsL2NKSWdCWWVjPWX1P6loEqkBCBUSpAEKHFJlUGQ3bHdmN21lNUQ3YVRqcDZUM054RjdoZz0SJGVhMzhjMjEyLTk5NTAtNDEzOC04YzcyLWVjYWIwNTExYWEyORgAIAAoADCTmfzG0DE46/T0yL8xQOv09Mi/MUocOU5xV0ZKV29KenNab25iQWI2MjJZY3hjS0xNPVogIh7/3E1UakVhS2F2VmNUb3dwQmVuVEt3cElmZ0UvZz1lCFAQwxKoAQgIEqMBChxXNjRJdGRkWlc2cW5Dc01zdEpzSzNCb0U1c1E9EiRhOTAxOTIwMy1iZDY3LTQyOWMtYTE0MC1hNDkyYWYxOTlhZWQYACAAKAAw/YGzjMUxOKSGs4zFMUCkhrOMxTFKHGpWYUlKVHdacElOT0NSWFF0RHJDZit2Tm91ST1aHyIdqUg1c0lDSEkyY3d3S2ZvdFVQeFdwN1ZnRGtvaz1lAAAAABKoAQgTEqMBChw2NjdwK1F6ZmFJNTJzMmpsWjJ5OThxSjVsWXc9EiQ0ZTRjMmNmNi04NzJhLTQwMGYtYWVhNy1hODQzYzIxNTdhNDUYACAAKAAwkZn8xtAxONP09Mi/MUDT9PTIvzFKHGJkaWVMOUF4M09kS2lsZWoxc0lyS0xJa3UyST1aHyId/3JDQzBkbm9tZ3BzVTUzTmUwU2s4bUVBUUovVT1lrdPjIRKoAQgNEqMBChxVOHpSOGtabEQ0MUpwWkZDbGIvZEp4NkJraEU9EiQ5ZDg4YzFkMS02YzdkLTQzMWQtOTJlNy1kMTY3MjAxMTBjOWQYACAAKAAwj5n8xtAxOIn29Mi/MUCJ9vTIvzFKHGNwSG42U2Qrck9vUkgwK2hHZGlMT2J3K3JkQT1aHyId0ndKOXdSaU5TWTdjcFpwYXlyR0lXaWpMRTAydz1lpxzSGRKpAQgXEqQBChxQYXRUVDB5OGk3UjBRa1BjRmE5cThKNmhWNkU9EiQyNzlmOTg0Yi00NGI0LTQ5ODItYTI2Ni03ZDA2ODQ2ZjBlMzEYACAAKAAw/4GzjMUxONuGs4zFMUDbhrOMxTFKHHhQMjhIMFo0dDdsNkJwWUxkSjdwYnRPd0hQND1aICIe//czYklHT3BXNzBENzV0bXZld2c4clYvL252aVU9ZZs9hbYSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDkzNzAwMGQtMTQ0Ny01MTljLThjNWYtNjgxMGMwNzM2MmRkGAAgACgAMKeVpbOzMTiRnqWzszFAkZ6ls7MxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
